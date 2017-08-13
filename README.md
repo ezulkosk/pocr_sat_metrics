@@ -1,6 +1,6 @@
-# Supplemental Material for the paper "Empirically Relating Complexity-theoretic Parameters with SAT Solver Performance"
-# Ed Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Liang, Krzysztof Czarnecki, Vijay Ganesh
-# Pragmatics of Constraint Reasoning (PoCR) 2017
+### Supplemental Material for the paper "Empirically Relating Complexity-theoretic Parameters with SAT Solver Performance"
+#### Ed Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Liang, Krzysztof Czarnecki, Vijay Ganesh
+#### Pragmatics of Constraint Reasoning (PoCR) 2017
 
 Laser code can be found at: https://github.com/sat-group/laser-maple.
 
